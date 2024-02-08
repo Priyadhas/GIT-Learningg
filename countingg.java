@@ -18,7 +18,7 @@ public class countingg {
                     odd++;
                 }
             }
-            System.out.println("Even numbers:"+even);
-            System.out.println("Odd numbers:"+odd);
+            System.out.println("Even numbers are :"+even);
+            System.out.println("Odd numbers are :"+odd);
         }
     }
