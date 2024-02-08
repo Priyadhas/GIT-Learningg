@@ -4,7 +4,7 @@ public class countingg {
 
         public static void main(String[] args)
         {
-            int a[]={12,23,34,45,5,10};
+            int a[]={12,23,34,45,5,56,89,7,9};
             int even=0;
             int odd=0;
             for(int i=0; i<a.length; i++)
